@@ -4,9 +4,6 @@
  <a href="https://github.com/flavio-junior">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=flavio-junior&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-junior&layout=compact&langs_count=16&theme=black"/>
-  <br>
-  <img height="160em" src="https://starchart.cc/{https://github.com/flavio-junior}/{repo}.svg" />
- </a>
 </div>  
 
 <br>
@@ -39,7 +36,6 @@
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
