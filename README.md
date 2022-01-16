@@ -7,7 +7,7 @@
  </a>
 </div>  
 
-<div style="display: inline_block">
+<div>
  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
  <br>
