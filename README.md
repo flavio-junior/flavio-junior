@@ -8,7 +8,7 @@
 </div>  
 
 <div>
- <img src="https://starchart.cc/{flavio-junior}/{repo}.svg" /> 
+  <a href="https://github.com/flavio-junior"> <img src="https://starchart.cc/{flavio-junior}/{repo}.svg" /></a>
 </div>
 
 <br>
