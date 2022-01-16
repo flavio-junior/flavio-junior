@@ -9,4 +9,4 @@
 
 ---
 
-##principais tecnologias
+principais tecnologias
