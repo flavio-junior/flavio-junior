@@ -9,6 +9,12 @@
 
 ---
 
+<div>
+ <a href="https://www.instagram.com"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+---
+
 <div align="center">
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
