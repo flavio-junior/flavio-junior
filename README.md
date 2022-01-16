@@ -1,4 +1,4 @@
-***
+---
 
 <div align="center">
  <a href="https://github.com/flavio-junior">
@@ -7,4 +7,4 @@
  </a>
 </div>  
 
-***
+---
