@@ -7,6 +7,10 @@
  </a>
 </div>  
 
+<div>
+ <img src="https://starchart.cc/{flavio-junior}/{repo}.svg" /> 
+</div>
+
 <br>
 
 <div align="center">
