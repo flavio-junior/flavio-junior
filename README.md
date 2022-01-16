@@ -17,7 +17,7 @@
  <a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href=""> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://twitter.com"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
- <a href=""> <img src="https://img.shields.io/github/followers/{flavio-junior}.svg?style=social&label=Follow&maxAge=2592000"></a>
+ <a href=""> <img src="https://img.shields.io/github/followers/{Flávio Júunior}.svg?style=social&label=Follow&maxAge=2592000"></a>
 </div>
 
 ---
