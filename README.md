@@ -7,6 +7,10 @@
  </a>
 </div>  
 
----
+<div style="display: inline_block">
+ <br>
+  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+ <br>
+</div>
 
-principais tecnologias
+---
