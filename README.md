@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
