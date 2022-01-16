@@ -7,9 +7,10 @@
  </a>
 </div>  
 
+<br>
+
 <div align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
- <br>
 </div>
 
 ---
