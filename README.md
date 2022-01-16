@@ -1,12 +1,4 @@
-### Hi there 👋
-
-<!--
-**flavio-junior/flavio-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on android projects.
-- 🌱 I’m currently learning Design Patterns in Kotlin, html5 and css3.
-- 💬 Ask me about ...
-- 📫 How to reach me:  [linktr.ee](https://linktr.ee/flaviojunior.ofc)
--->
+### Oi, tudo bem com você? Me chamo Flávio e sou desenvolvedor android nativo em java e kotlin atualmente.✊👋
+- 👔 Atualmente trabalho com desenvolvimento android. Focando principalmente na interface do app e na arquitetura escolhida dentro do projeto, bibliotecas de terceiros, prototipos, protótipos, bancos de dados entre outros.
+- ⌨️ Atualmente estou estudando Design Patterns no android, kotlin, html5 e css3.
+- 📫 Você pode entrar em contato comigo através do  [linktr.ee](https://linktr.ee/flaviojunior.ofc)
