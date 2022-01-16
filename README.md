@@ -1,5 +1,4 @@
-## Work & Lifestyle
----
+# Work & Lifestyle
 
 <div align="center">
  <a href="https://github.com/flavio-junior">
